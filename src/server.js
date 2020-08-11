@@ -107,5 +107,5 @@ server.get("/search", (req, res) => {
 })
 
 
-//  Ligar o servidor
+//  Ligar o servidor "npm run start"
 server.listen(3000)
