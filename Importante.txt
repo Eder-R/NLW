@@ -1,3 +1,2 @@
 Para vizualizar o arquivo
-
-Você precisa instalar o node
+Ligar o servidor "npm run start"
